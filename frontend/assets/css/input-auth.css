@@ -1,0 +1,21 @@
+.__input_auth .el-input__wrapper {
+  padding: 0!important;
+  box-shadow: none!important;
+  height: 40px;
+  background-color: #f1f1f1;
+  border-radius: 6px;
+}
+
+.__input_auth .el-input__inner::placeholder {
+  color: #6A6B70!important;
+}
+
+.el-input__suffix-inner>:first-child {
+  margin-right: 8px;
+}
+
+input:-internal-autofill-selected {
+  border-radius: 0 12px 12px 0;
+  margin-right: 5px;
+  padding: 5px;
+}

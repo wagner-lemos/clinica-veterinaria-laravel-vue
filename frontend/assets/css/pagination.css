@@ -1,0 +1,45 @@
+.el-pagination {
+  background-color: transparent!important;
+}
+
+.el-pagination button, 
+.el-pagination .number, 
+.el-pagination .more {
+  background-color: transparent!important;
+  border: 3px solid #fff!important;
+  color: #fff!important;
+  border-radius: 15px!important;
+  width: 50px!important;
+  height: 50px!important;
+  margin: 0 2px!important;
+  transition: 200ms ease-in-out;
+}
+
+.el-pagination .number.is-active {
+  background-color: #fff!important;
+  color: #1f1657!important;
+}
+
+.el-pagination .number:hover {
+  background-color: #fff!important;
+  color: #1f1657!important;
+}
+
+.el-pagination button:hover i {
+  color: #1f1657!important;
+}
+
+.el-pagination button i {
+  display: flex!important;
+  justify-content: center!important;
+  font-size: 16px;
+  color: #fff;
+  font-weight: 900;
+  opacity: 1!important;
+}
+
+.el-pagination button i svg {
+  stroke-width: 60px;
+  fill: #fff!important;
+  stroke: #fff!important;
+}
