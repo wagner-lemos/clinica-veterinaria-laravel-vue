@@ -44,6 +44,10 @@ OBS: No clone já contem os diretorios frontend e backend
 ```
 • php artisan serve
 ```
+#### Para executar testes automatizados
+```
+• php artisan test
+```
 
 ### Configurando o Frontend
 
