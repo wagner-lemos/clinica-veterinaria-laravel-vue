@@ -59,3 +59,5 @@ OBS: No clone já contem os diretorios frontend e backend
 ```
 • npm run dev
 ```
+
+##### A senha padrao para todos os usuarios gerados por seeder é: "password"
