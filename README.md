@@ -1,6 +1,6 @@
 ### Teste VueJS 3 + Laravel 10
 
-Desafio proposto é desenvolver um sistema para controle de agendamentos de uma clínica veterinária.<br/><br/>
+Desafio proposto é desenvolver um sistema para controle de agendamentos de uma clínica veterinária.<br/>
 
 O rececionista da clínica vai poder ver as marcações por datas e por tipo de animal, atribuiindo as marcações ao médico selecionado, alem de poder criar, editar e apagar todas as marcações.<br/>
 O médico vai poder ver as marcações que lhe estão atribuídas, por dias e por tipo de animal, e vai poder editar somente as marcações que lhe estão atribuídas,
